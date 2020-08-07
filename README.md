@@ -1,10 +1,4 @@
-<h1 align="center">
-  <img src="">
-</h1>
 
-<h1 display="inline">
-  <img src="">
-</h1>
 
 - [Sobre](#-sobre)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
