@@ -10,8 +10,12 @@ O **Proffy** é uma aplicação desenvolvida durante a **Next Level Week 2.0**. 
 
 # 🚀 Tecnologias Utilizadas
 
-- [ReactJS](https://pt-br.reactjs.org)
-- TypeScript
+  * [ReactJS](https://pt-br.reactjs.org)
+  * NodeJs
+  * TypeScript
+  * React Native
+  * Expo
+  * Express
 
 # 📦 Como baixar o projeto
 
