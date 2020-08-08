@@ -1,16 +1,13 @@
 <p align=center>
-  <img src="https://github.com/JonathanKBP/Proffy/blob/master/.github/logo.png" />
+  <img src="https://github.com/JonathanKBP/Proffy/blob/master/.github/logo1.png" />
 </p>
 
-- [Sobre](#-sobre)
-- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [Como baixar o projeto](#-como-baixar-o-projeto)
-- [Prints](#-prints)
-
-
-<p align="center">
-  <img src="https://github.com/JonathanKBP/Proffy/blob/master/.github/web-landing.png" alt="Pagina inicial proffy">
-<p>
+<h3 align="center">
+  <a href="#-sobre">Sobre</a>&nbsp;|&nbsp;
+  <a href="#-tecnologias-utilizadas">Tecnologias Utilizadas</a>&nbsp;|&nbsp;
+  <a href="#-como-baixar-o-projeto">Como baixar o projeto</a>&nbsp;|&nbsp;
+  <a href="#-prints">Prints do sistema</a>&nbsp;|&nbsp;
+</h3>
 
 ## 🗒 Sobre
 
@@ -27,6 +24,7 @@ O **Proffy** é uma aplicação desenvolvida durante a **Next Level Week 2.0**. 
   
 ## 🖼 Prints
 
+![Pagina inicial proffy](./.github/web-landing.png)
 ![Web-list](./.github/web-list.png)
 
 <p align="center">
